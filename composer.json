@@ -1,5 +1,5 @@
 {
-    "name": "jmoguelruiz/helpers",
+    "name": "jmoguelruiz/yii2-helpers",
     "type": "library",
     "require": {
         "yiisoft/yii2": "^2.0"
