@@ -1,0 +1,16 @@
+{
+    "name": "jmoguelruiz/helpers",
+    "type": "library",
+    "require": {
+        "yiisoft/yii2": "^2.0"
+    },
+    "require-dev": {
+        "yiisoft/yii2": "^2.0"
+    },
+    "authors": [
+        {
+            "name": "Jose Obed Moguel Ruiz",
+            "email": "jmoguelruiz@gmail.com"
+        }
+    ]
+}
